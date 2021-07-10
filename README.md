@@ -6,7 +6,7 @@ Garry's Mod - adds specific materials like crates, boxes and keys to pointshop2 
 
 This is the easiest way to install it and it's recommended for clients.
 
-* Go to workshop page: https://steamcommunity.com/sharedfiles/filedetails/?id=805980529
+* Go to workshop page: https://steamcommunity.com/sharedfiles/filedetails/?id=803147775
 * Click green Subscribe button or add it into your server collection.
 
 This will be enabled next time you launch game or server.
